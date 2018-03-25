@@ -1,5 +1,5 @@
 require "twomarkz/version"
-require "greeting"
+require "twomarkz/greeting"
 module Twomarkz
   # Your code goes here...
 end
